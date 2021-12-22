@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-ecom-gamesstore/static/css/main.b2e6441e.chunk.css",
-    "main.js": "/react-ecom-gamesstore/static/js/main.683ba9c3.chunk.js",
-    "main.js.map": "/react-ecom-gamesstore/static/js/main.683ba9c3.chunk.js.map",
+    "main.js": "/react-ecom-gamesstore/static/js/main.0b8694d6.chunk.js",
+    "main.js.map": "/react-ecom-gamesstore/static/js/main.0b8694d6.chunk.js.map",
     "runtime-main.js": "/react-ecom-gamesstore/static/js/runtime-main.9ff710ab.js",
     "runtime-main.js.map": "/react-ecom-gamesstore/static/js/runtime-main.9ff710ab.js.map",
     "static/js/2.1c17f657.chunk.js": "/react-ecom-gamesstore/static/js/2.1c17f657.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ff710ab.js",
     "static/js/2.1c17f657.chunk.js",
     "static/css/main.b2e6441e.chunk.css",
-    "static/js/main.683ba9c3.chunk.js"
+    "static/js/main.0b8694d6.chunk.js"
   ]
 }
