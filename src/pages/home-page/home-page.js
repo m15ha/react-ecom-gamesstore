@@ -27,7 +27,7 @@ const GAMES = [
     {
         image: process.env.PUBLIC_URL + '/game-covers/life_is_strange_true_colors.jpeg',
         title: 'Life is Strange True Colors',
-        genres: ['Deep plot', 'Protagonist'],
+        genres: ['Deep plot', 'Protagonist', 'Action'],
         video: 'https://www.youtube.com/embed/b6CkzwVAr0M',
         price: 49,
         id: 3,
