@@ -7,7 +7,7 @@ const GAMES = [
     {
         image: process.env.PUBLIC_URL + '/game-covers/forza_5.jpeg',
         title: 'Forza Horizon 5',
-        genres: ['Race', 'Simulator', 'Open world'],
+        genres: ['Race', 'Simulator'],
         price: 54,
         video: 'https://www.youtube.com/embed/FYH9n37B7Yw',
         id: 1,
