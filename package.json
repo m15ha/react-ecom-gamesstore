@@ -1,6 +1,6 @@
 {
-    "name": "react-ecom-gamesstore",
     "homepage": "https://m15ha.github.io/react-ecom-gamesstore/",
+    "name": "react-ecom-gamesstore",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
